@@ -1,6 +1,5 @@
 module.exports.DoctorDomain = class {
-  constructor (id, fullName, hospital, rut, phone, date) {
-    this.id = id
+  constructor (fullName, hospital, rut, phone, date) {
     this.fullName = fullName
     this.hospital = hospital
     this.rut = rut

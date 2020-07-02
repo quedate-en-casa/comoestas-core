@@ -6,4 +6,8 @@ module.exports.DoctorService = class {
   async insert (doctor) {
     return this.doctorOutput.insert(doctor)
   }
+
+  async getByRut (rut) {
+    return this.doctorOutput.getByRut(rut)
+  }
 }
