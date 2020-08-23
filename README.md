@@ -2,7 +2,7 @@
 
 ## Requirements
 
-To develop in this project you `Node.js` and `Yarn`.
+To develop in this project you need `Node.js` and `Yarn`.
 
 ## TODO
 
